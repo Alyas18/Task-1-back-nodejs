@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "fname": "aliaa",
+        "lname": "yaseen",
+        "age": 22,
+        "city": "assuit"
+    },
+    {
+        "id": 3,
+        "fname": "islam",
+        "lname": "ali",
+        "age": 44,
+        "city": "cairo"
+    },
+    {
+        "id": 7,
+        "fname": "Frank-Walter",
+        "lname": "Steinmeier",
+        "age": 68,
+        "city": "Germany"
+    },
+    {
+        "id": 10,
+        "fname": "Ghada",
+        "lname": "Naser",
+        "age": 10,
+        "city": "cairo"
+    },
+    {
+        "id": 5,
+        "fname": "Emmanuel",
+        "lname": "Macron",
+        "age": 46,
+        "city": "france"
+    },
+    {
+        "id": 9,
+        "fname": "Eman",
+        "lname": "Mohamed",
+        "age": 25,
+        "city": "mansoura"
+    }
+]
